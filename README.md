@@ -14,6 +14,6 @@ Implementation of a Wasserstein Generative Adversarial Network with Gradient Pen
 
 ### Epoch Progression of Wasserstein GAN
 
-![](data/saved_images/epoch_progression.png)
+![](data/saved_images/epoch_progression.gif)
 
 Some ways to improve performance as well as quality of images is to increase the iteration of Discriminator training. This means that the discriminator is trained more times than the generator. Also a fully convolutional architecture will perform better at producing synthetic images.
