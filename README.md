@@ -7,4 +7,4 @@ Implementation of a Wasserstein Generative Adversarial Network with Gradient Pen
 
 ## The Wasserstein Loss for Generator is:
 
-![](data/uplaods/generator_loss.png)
+![](data/uploads/generator_loss.png)
